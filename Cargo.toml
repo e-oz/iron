@@ -35,7 +35,7 @@ lazy_static = "0.2"
 num_cpus = "1.0"
 
 [dependencies.hyper]
-version = "0.9"
+git = "https://github.com/e-oz/hyper"
 default-features = false
 
 [dev-dependencies]
